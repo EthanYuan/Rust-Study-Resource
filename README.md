@@ -77,6 +77,7 @@
 
 ## 视频资源
 
+- 首届中国Rust开发者大会，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG)
 - [Rust唠嗑室][https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2]，B站，MikeTang84
 - [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
 
