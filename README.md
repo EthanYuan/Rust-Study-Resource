@@ -4,12 +4,12 @@
 
 ## 出版书籍
 
-- 《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/#the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://kaisery.github.io/trpl-zh-cn/)
-- 《Programming Rust》，Jim Blandy and Jason Orendorff，[中文版豆瓣门](https://book.douban.com/subject/35217097/)
-- 《[Zero To Production In Rust](https://www.zero2prod.com/)》
-- 《Rust编程之道》，张汉东，[豆瓣门](https://book.douban.com/subject/30418895/)
-- 《深入浅出Rust》，范长春，[豆瓣门](https://book.douban.com/subject/30312231/) 
-- [Begin Rust](https://www.beginrust.com/sample/beginrust.html)
+- 《[The Rust Programming Language](https://link.zhihu.com/?target=https%3A//doc.rust-lang.org/stable/book/%23the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://link.zhihu.com/?target=https%3A//kaisery.github.io/trpl-zh-cn/)
+*   《Programming Rust》，Jim Blandy and Jason Orendorff，2018，[豆瓣门](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/35217097/)
+*   《深入浅出Rust》，范长春 （ [@F001](https://www.zhihu.com/people/bf95908efb41f3447704e267c6be7139) ），2018，[豆瓣门](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/30312231/)
+*   《Rust编程之道》，  [@张汉东](https://www.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9) ，2019，[豆瓣门](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/30418895/)
+*   《[Begin Rust](https://link.zhihu.com/?target=https%3A//www.beginrust.com/sample/beginrust.html)》，2020，Michael and Miriam Snoyman
+*   《[Zero To Production In Rust](https://link.zhihu.com/?target=https%3A//www.zero2prod.com/)》，2021，Luca Palmieri
 
 ## 语言学习
 
