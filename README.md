@@ -4,12 +4,12 @@
 
 ## 出版书籍
 
-- 《[The Rust Programming Language](https://link.zhihu.com/?target=https%3A//doc.rust-lang.org/stable/book/%23the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://link.zhihu.com/?target=https%3A//kaisery.github.io/trpl-zh-cn/)
-*   《Programming Rust》，Jim Blandy and Jason Orendorff，2018，[豆瓣门](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/35217097/)
-*   《深入浅出Rust》，范长春 （ [@F001](https://www.zhihu.com/people/bf95908efb41f3447704e267c6be7139) ），2018，[豆瓣门](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/30312231/)
-*   《Rust编程之道》，  [@张汉东](https://www.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9) ，2019，[豆瓣门](https://link.zhihu.com/?target=https%3A//book.douban.com/subject/30418895/)
-*   《[Begin Rust](https://link.zhihu.com/?target=https%3A//www.beginrust.com/sample/beginrust.html)》，2020，Michael and Miriam Snoyman
-*   《[Zero To Production In Rust](https://link.zhihu.com/?target=https%3A//www.zero2prod.com/)》，2021，Luca Palmieri
+- 《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/%23the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://kaisery.github.io/trpl-zh-cn/)
+*   《Programming Rust》，Jim Blandy and Jason Orendorff，2018，[豆瓣门](https://book.douban.com/subject/35217097/)
+*   《深入浅出Rust》，范长春 （ [@F001](https://www.zhihu.com/people/bf95908efb41f3447704e267c6be7139) ），2018，[豆瓣门](https://book.douban.com/subject/30312231/)
+*   《Rust编程之道》，  [@张汉东](https://www.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9) ，2019，[豆瓣门](https://book.douban.com/subject/30418895/)
+*   《[Begin Rust](https://www.beginrust.com/sample/beginrust.html)》，2020，Michael and Miriam Snoyman
+*   《[Zero To Production In Rust](https://www.zero2prod.com/)》，2021，Luca Palmieri
 
 ## 语言学习
 
@@ -22,7 +22,7 @@
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
-- [Rust API Guidelines](https://link.zhihu.com/?target=https%3A//rust-lang.github.io/api-guidelines/about.html) 
+- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html) 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) 
 
@@ -78,7 +78,7 @@
 ## 视频资源
 
 - 首届中国Rust开发者大会，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG)
-- [Rust唠嗑室][https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2]，B站，MikeTang84
+- [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
 - [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
 
 ## 社区
