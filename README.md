@@ -8,8 +8,9 @@
 *   《Programming Rust》，Jim Blandy and Jason Orendorff，2018，[豆瓣门](https://book.douban.com/subject/35217097/)
 *   《深入浅出Rust》，范长春 （ [@F001](https://www.zhihu.com/people/bf95908efb41f3447704e267c6be7139) ），2018，[豆瓣门](https://book.douban.com/subject/30312231/)
 *   《Rust编程之道》，  [@张汉东](https://www.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9) ，2019，[豆瓣门](https://book.douban.com/subject/30418895/)
-*   《[Begin Rust](https://www.beginrust.com/sample/beginrust.html)》，2020，Michael and Miriam Snoyman
-*   《[Zero To Production In Rust](https://www.zero2prod.com/)》，2021，Luca Palmieri
+*   《[Begin Rust](https://www.beginrust.com/sample/beginrust.html)》，Michael and Miriam Snoyman，2020，
+*   《精通Rust》，Rahul Sharm，2021，[豆瓣门](https://book.douban.com/subject/35290878/)
+*   《[Zero To Production In Rust](https://www.zero2prod.com/)》，Luca Palmieri，2021
 
 ## 语言学习
 
@@ -20,7 +21,7 @@
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
-- [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)
+- [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)，[中文版](https://erasin.wang/books/edition-guide-cn/introduction.html)
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html) 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
