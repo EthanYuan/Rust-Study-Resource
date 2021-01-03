@@ -9,7 +9,7 @@
 *   《深入浅出Rust》，范长春 （ [@F001](https://www.zhihu.com/people/bf95908efb41f3447704e267c6be7139) ），2018，[豆瓣门](https://book.douban.com/subject/30312231/)
 *   《Rust编程之道》，  [@张汉东](https://www.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9) ，2019，[豆瓣门](https://book.douban.com/subject/30418895/)
 *   《[Begin Rust](https://www.beginrust.com/sample/beginrust.html)》，Michael and Miriam Snoyman，2020，
-*   《精通Rust》，Rahul Sharm，2021，[豆瓣门](https://book.douban.com/subject/35290878/)
+*   《精通Rust》，Rahul Sharm，2021，[豆瓣门](https://book.douban.com/subject/35290878/) :sunrise_over_mountains:
 *   《[Zero To Production In Rust](https://www.zero2prod.com/)》，Luca Palmieri，2021
 
 ## 语言学习
@@ -19,6 +19,7 @@
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/) :sunrise_over_mountains:
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)，[中文版](https://erasin.wang/books/edition-guide-cn/introduction.html)
@@ -78,7 +79,7 @@
 
 ## 视频资源
 
-- [首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG)
+- [首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG) :sunrise_over_mountains:
 - [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
 - [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
 
