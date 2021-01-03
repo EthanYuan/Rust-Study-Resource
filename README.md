@@ -19,7 +19,6 @@
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
-- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/) :sunrise_over_mountains:
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
 - [The Edition Guide](https://doc.rust-lang.org/nightly/edition-guide/)，[中文版](https://erasin.wang/books/edition-guide-cn/introduction.html)
@@ -27,6 +26,10 @@
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html) 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) 
+
+**主题：设计模式**
+
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 
 **主题：错误处理**
 
