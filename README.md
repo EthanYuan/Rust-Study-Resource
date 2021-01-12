@@ -18,6 +18,7 @@
 
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
+- [Learning Rust](https://learning-rust.github.io/)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
 - [The Rust Reference](https://doc.rust-lang.org/stable/reference/)，[中文版](https://minstrel1977.gitee.io/rust-reference/)
 - [The Rust RFC Book](https://rust-lang.github.io/rfcs/)
@@ -26,6 +27,10 @@
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html) 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) 
+
+**主题：宏**
+
+- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)，[Rust宏小册](https://www.bookstack.cn/read/DaseinPhaos-tlborm-chinese/aeg-README.md)
 
 **主题：设计模式**
 
@@ -37,7 +42,7 @@
 
 **主题：异步**
 
-- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](http://tutzip.com/tut/rust-async-cn/)
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)，[Rust 异步编程](https://huangjj27.github.io/async-book/index.html)
 - [Async programming in Rust with async-std](https://book.async.rs/)，[async-std 中文文档](https://learnku.com/docs/rust-async-std/) 
 - [The Node Experiment - Exploring Async Basics with Rust](https://cfsamson.github.io/book-exploring-async-basics/)
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/introduction.html)，[200行代码讲透RUST FUTURES](https://stevenbai.top/rust/futures_explained_in_200_lines_of_rust/)
@@ -78,6 +83,7 @@
 - [Serde](https://github.com/serde-rs/serde)，3.7k stars，Serialization/Deserialization library
 - [StructOpt](https://github.com/TeXitoi/structopt)，1.8k stars，Parse command line arguments by defining a struct
 - [Regex](https://github.com/rust-lang/regex)，1.7k stars，regular expressions
+- [thiserror](https://github.com/dtolnay/thiserror)，1.2k stars, This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait
 - [winapi-rs](https://github.com/retep998/winapi-rs)，1.1k stars，bindings for windows APIs
 
 ## 视频资源
