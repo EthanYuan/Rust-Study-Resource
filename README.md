@@ -17,6 +17,7 @@
 **语言**
 
 - [Rust官网](https://www.rust-lang.org/zh-CN/)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/) - “the book”，[中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [The Rust Standard Library](https://doc.rust-lang.org/std/index.html)
 - [Learning Rust](https://learning-rust.github.io/)
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/)，[死灵书](http://120.78.128.153/rustonomicon/)
@@ -26,6 +27,16 @@
 - [The Rust Unstable Book](https://doc.rust-lang.org/beta/unstable-book/)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/about.html) 
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/) 
+- [The Little Book of Rust Books](https://lborb.github.io/book/)，Rust书籍宝库
+
+**主题：rustc**
+
+- [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
+
+- [Rust Forge](https://forge.rust-lang.org/)
+
+**主题：命令行应用**
+
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) 
 
 **主题：宏**
@@ -58,6 +69,14 @@
 **主题：WebAssembly**
 
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)，[Rust和WebAssembly](http://tutzip.com/tut/rustwasm/)
+
+**主题：文档**
+
+- [The rustdoc book](https://doc.rust-lang.org/stable/rustdoc/)
+
+**主题：FFI**
+
+- [The `bindgen` User Guide](https://rust-lang.github.io/rust-bindgen/)
 
 **练习**
 
