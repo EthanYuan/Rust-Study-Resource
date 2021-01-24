@@ -103,6 +103,7 @@
 - [Actix](https://actix.rs/docs/)，10.3k stars，Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
 - [clap](https://github.com/clap-rs/clap)，5.1k stars，Command Line Argument Parser for Rust
 - [Serde](https://github.com/serde-rs/serde)，3.7k stars，Serialization/Deserialization library
+- [Crossbeam](https://github.com/crossbeam-rs/crossbeam)，3.4k stars，This crate provides a set of tools for concurrent programming
 - [StructOpt](https://github.com/TeXitoi/structopt)，1.8k stars，Parse command line arguments by defining a struct
 - [Regex](https://github.com/rust-lang/regex)，1.7k stars，regular expressions
 - [thiserror](https://github.com/dtolnay/thiserror)，1.2k stars, This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait
