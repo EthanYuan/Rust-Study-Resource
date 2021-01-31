@@ -112,8 +112,10 @@
 ## 视频资源
 
 - [首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG) :sunrise_over_mountains:
-- [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
 - [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
+- [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
+- [程序员令狐壹冲](https://space.bilibili.com/485433391?spm_id_from=333.788.b_765f7570696e666f.2)，B站，分享Rust和区块链技术
+- [Rust编程语言入门](https://www.bilibili.com/video/BV1hp4y1k7SV)，B站，杨旭（微软MVP）
 
 ## 社区
 
