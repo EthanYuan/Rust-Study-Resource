@@ -121,7 +121,7 @@
 ## 社区
 
 - [Rust语言中文社区](https://rustcc.cn/)
-- 微信公众号：rust-china，Rust语言中文社区
+- Rust语言中文社区微信公众号：rust-china
 - [Rust Discord](https://discord.com/channels/442252698964721669/616119515113062421)
 - [The official users forum](https://users.rust-lang.org/)
 - [This Week in Rust](https://this-week-in-rust.org/)
