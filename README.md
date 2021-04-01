@@ -2,6 +2,25 @@
 
 ![](img/learn_rust_now.png)
 
+## 视频资源
+
+- [2020首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG) :sunrise_over_mountains:
+- [2021Rust Meetup活动深圳站](https://www.oschina.net/event/2321485)，[上半场](https://www.bilibili.com/video/BV1Q54y187RH)，[下半场](https://www.bilibili.com/video/BV1DK4y1T75e/?spm_id_from=333.788.recommend_more_video.-1)
+- [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
+- [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
+- [ChaosBot](https://space.bilibili.com/24917186?spm_id_from=333.788.b_765f7570696e666f.2)，B站，张汉东
+- [程序员令狐壹冲](https://space.bilibili.com/485433391?spm_id_from=333.788.b_765f7570696e666f.2)，B站，分享Rust和区块链技术
+- [Rust编程语言入门](https://www.bilibili.com/video/BV1hp4y1k7SV)，B站，杨旭（微软MVP）
+
+## 社区
+
+- [Rust语言中文社区](https://rustcc.cn/)
+- Rust语言中文社区微信公众号：rust-china
+- [Rust Magazine 中文月刊](https://rustmagazine.github.io/rust_magazine_2021/)
+- [Rust Discord](https://discord.com/channels/442252698964721669/616119515113062421)
+- [The official users forum](https://users.rust-lang.org/)
+- [This Week in Rust](https://this-week-in-rust.org/)
+
 ## 出版书籍
 
 - 《[The Rust Programming Language](https://doc.rust-lang.org/stable/book/%23the-rust-programming-language)》，Steve Klabnik and Carol Nichols，[中文版](https://kaisery.github.io/trpl-zh-cn/)
@@ -109,25 +128,3 @@
 - [Regex](https://github.com/rust-lang/regex)，1.7k stars，regular expressions
 - [thiserror](https://github.com/dtolnay/thiserror)，1.2k stars, This library provides a convenient derive macro for the standard library's [`std::error::Error`](https://doc.rust-lang.org/std/error/trait.Error.html) trait
 - [winapi-rs](https://github.com/retep998/winapi-rs)，1.1k stars，bindings for windows APIs
-
-## 视频资源
-
-- [首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG) :sunrise_over_mountains:
-- [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
-- [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
-- [程序员令狐壹冲](https://space.bilibili.com/485433391?spm_id_from=333.788.b_765f7570696e666f.2)，B站，分享Rust和区块链技术
-- [Rust编程语言入门](https://www.bilibili.com/video/BV1hp4y1k7SV)，B站，杨旭（微软MVP）
-
-## 社区
-
-- [Rust语言中文社区](https://rustcc.cn/)
-- Rust语言中文社区微信公众号：rust-china
-- [Rust Discord](https://discord.com/channels/442252698964721669/616119515113062421)
-- [The official users forum](https://users.rust-lang.org/)
-- [This Week in Rust](https://this-week-in-rust.org/)
-
-## 博客
-
-- [Without boats, dreams dry up](https://without.boats/)
-
-- [THE ABOMINABLE SNOYMAN](https://www.snoyman.com/)
