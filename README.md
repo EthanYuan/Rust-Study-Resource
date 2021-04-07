@@ -51,8 +51,11 @@
 **主题：rustc**
 
 - [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/)
-
 - [Rust Forge](https://forge.rust-lang.org/)
+
+**主题：Cargo**
+
+- [The Cargo Book](https://doc.rust-lang.org/cargo/)，[中文版](http://llever.com/cargo-book-zh/)
 
 **主题：命令行应用**
 
