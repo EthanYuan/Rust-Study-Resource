@@ -4,11 +4,12 @@
 
 ## 视频资源
 
-- [2020首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG) :sunrise_over_mountains:
-- [2021Rust Meetup活动深圳站](https://www.oschina.net/event/2321485)，[上半场](https://www.bilibili.com/video/BV1Q54y187RH)，[下半场](https://www.bilibili.com/video/BV1DK4y1T75e/?spm_id_from=333.788.recommend_more_video.-1)
+- [2020首届中国Rust开发者大会](https://2020conf.rustcc.cn/schedule.html)，[Day 1](https://live.csdn.net/room/u012067469/3VT3jORs)， [Day 2](https://live.csdn.net/room/u012067469/51UUkkjG) 
+- [2021Rust Meetup深圳站](https://www.oschina.net/event/2321485)，[上半场](https://www.bilibili.com/video/BV1Q54y187RH)，[下半场](https://www.bilibili.com/video/BV1DK4y1T75e/?spm_id_from=333.788.recommend_more_video.-1) :sunrise_over_mountains:
+- [2021Rust Meetup 北京站](https://www.huodongxing.com/event/5590522571600)  [回放](https://www.bilibili.com/s/video/BV1R54y1b7qo) :sunrise_over_mountains:
 - [张汉东的Rust实战课:带你完整构建一个异步Web框架](https://time.geekbang.org/course/intro/100060601)，极客时间
 - [Rust唠嗑室](https://space.bilibili.com/25566598?spm_id_from=333.788.b_765f7570696e666f.2)，B站，MikeTang84
-- [ChaosBot](https://space.bilibili.com/24917186?spm_id_from=333.788.b_765f7570696e666f.2)，B站，张汉东
+- [ChaosBot](https://space.bilibili.com/24917186?spm_id_from=333.788.b_765f7570696e666f.2)，B站，张汉东 :sunrise_over_mountains:
 - [程序员令狐壹冲](https://space.bilibili.com/485433391?spm_id_from=333.788.b_765f7570696e666f.2)，B站，分享Rust和区块链技术
 - [Rust编程语言入门](https://www.bilibili.com/video/BV1hp4y1k7SV)，B站，杨旭（微软MVP）
 
@@ -16,7 +17,7 @@
 
 - [Rust语言中文社区](https://rustcc.cn/)
 - Rust语言中文社区微信公众号：rust-china
-- [Rust Magazine 中文月刊](https://rustmagazine.github.io/rust_magazine_2021/)
+- [Rust Magazine 中文月刊](https://rustmagazine.github.io/rust_magazine_2021/) :sunrise_over_mountains:
 - [Rust Discord](https://discord.com/channels/442252698964721669/616119515113062421)
 - [The official users forum](https://users.rust-lang.org/)
 - [This Week in Rust](https://this-week-in-rust.org/)
@@ -28,8 +29,9 @@
 *   《深入浅出Rust》，范长春 （ [@F001](https://www.zhihu.com/people/bf95908efb41f3447704e267c6be7139) ），2018，[豆瓣门](https://book.douban.com/subject/30312231/)
 *   《Rust编程之道》，  [@张汉东](https://www.zhihu.com/people/5be040c7edb6ee5ba769cf5f737b1ba9) ，2019，[豆瓣门](https://book.douban.com/subject/30418895/)
 *   《[Begin Rust](https://www.beginrust.com/sample/beginrust.html)》，Michael and Miriam Snoyman，2020，
-*   《精通Rust》，Rahul Sharm，2021，[豆瓣门](https://book.douban.com/subject/35290878/) :sunrise_over_mountains:
+*   《精通Rust》，Rahul Sharm，2021，[豆瓣门](https://book.douban.com/subject/35290878/) 
 *   《[Zero To Production In Rust](https://www.zero2prod.com/)》，Luca Palmieri，2021
+*   《Rust语言编程实战》，Claus Matzinger，2021，[豆瓣门](https://book.douban.com/subject/35317257/) :sunrise_over_mountains:
 
 ## 语言学习
 
